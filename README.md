@@ -59,6 +59,9 @@ Passionate about building **web apps, mobile apps, desktop apps, and SaaS tools*
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=m223rx&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m223rx&layout=compact&theme=radical)  
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=m223rx&theme=radical)  
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=m223rx.readme)
+![Repos](https://img.shields.io/github/repos/m223rx?style=flat-square)
+![Followers](https://img.shields.io/github/followers/m223rx?label=Follow&style=social)
 
 ---
 
