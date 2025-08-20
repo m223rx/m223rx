@@ -56,9 +56,13 @@ Passionate about building **web apps, mobile apps, desktop apps, and SaaS tools*
 ---
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=m223rx&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m223rx&layout=compact&theme=radical)  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=m223rx&theme=radical)
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=m223rx&show_icons=true&theme=radical" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m223rx&layout=compact&theme=radical" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=m223rx&theme=radical" /></td>
+  </tr>
+</table>
 
 ---
 
