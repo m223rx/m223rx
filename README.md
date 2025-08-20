@@ -63,7 +63,7 @@ Passionate about building **web apps, mobile apps, desktop apps, and SaaS tools*
 ---
 
 ## 🌐 Connect with Me
-- 💼 [LinkedIn](#) *(add your link here)*  
+- 💼 [LinkedIn](#) *(coming soon)*  
 - 🌐 [Portfolio](#) *(coming soon)*  
 - 📫 Email: work.mortadha@gmail.com  
 
