@@ -1,6 +1,6 @@
 # 👋 Hi, I'm m223rx  
 
-💻 Full-Stack Web & Mobile Developer | Computer Science Student | Freelancer | Founder of NorthStack  
+💻 Full-Stack Web & Mobile Developer | Computer Science Student | Freelancer | Founder of NorthSide Creative  
 
 Passionate about building **web apps, mobile apps, desktop apps, and SaaS tools**. Skilled in both **frontend and backend development**, with experience in automation, bots, and cross-platform solutions.  
 
