@@ -70,7 +70,3 @@ Passionate about building **web apps, mobile apps, desktop apps, and SaaS tools*
 - 💼 [LinkedIn](https://www.linkedin.com/in/m223rx/) 
 - 🌐 [Portfolio](#) *(coming soon)*  
 - 📫 Email: work.mortadha@gmail.com  
-
----
-
-✨ *“Born to code. Full-stack, passionate, and always building the future one commit at a time.”*  
